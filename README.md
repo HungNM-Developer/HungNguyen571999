@@ -6,7 +6,6 @@ I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wo
 - 🖼 I'm also learning design skill on Figma and Photoshop
 - ✊ Visit ours blazing community at [fb.com/gdsc.hsu](https://www.facebook.com/gdsc.hsu) Google Developer Student Clubs
 - 👨🏻‍💻 I’m looking to collaborate on open source projects
-- ⚡ Func fact: I'm a guys with all most of *tech* interests in "`IoT, Hardware, Protocol,...`" things are weird at my 🏠
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hùng-nguyễn-5077561a6/) for work! [CV](https://github.com/HungNguyen571999/HungNguyen571999/blob/main/CV.pdf)
 
 <div>
@@ -25,5 +24,5 @@ I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wo
 if lazy is None:
     self.setup_github_action(#env.tokens)
 ```
-<a href="https://www.youtube.com/watch?v=N5BhaML3p1s&t=296s" target="_blank"><img src="https://i.ytimg.com/vi/N5BhaML3p1s/maxresdefault.jpg" 
+<a href="https://www.youtube.com/watch?v=N5BhaML3p1s&t=296s" target="_blank"><img src="https://img.youtube.com/vi/N5BhaML3p1s/maxresdefault.jpg" 
 alt="UX/UI Design & Figma by GDSC HSU Core Team"/></a>
