@@ -6,7 +6,7 @@ I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wo
 - 🖼 I'm also learning design skill on Figma and Photoshop
 - ✊ Visit ours blazing community at [fb.com/gdsc.hsu](https://www.facebook.com/gdsc.hsu) Google Developer Student Clubs
 - 👨🏻‍💻 I’m looking to collaborate on open source projects
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hùng-nguyễn-5077561a6/) for work! [CV](https://github.com/HungNguyen571999/HungNguyen571999/blob/main/CV.pdf)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/h%C3%B9ng-nguy%E1%BB%85n-5077561a6/) for work! [CV](https://github.com/HungNguyen571999/HungNguyen571999/blob/main/CV.pdf)
 
 <div>
     I'm best reached via <a href="mailto:nguyenmanhhung571999@gmail.com"/>email</a>. I'm always open to interesting conversations and collaboration.
